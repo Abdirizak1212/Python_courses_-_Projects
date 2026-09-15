@@ -1,0 +1,31 @@
+id,category,question_somali,question_english,answer_somali,answer_english,difficulty,verified,source,created_date
+1,admissions,SIMAD AI Institute ma ku soo biiri karaa?,How do I apply to SIMAD AI Institute?,Waxaad buuxisaa foom online ah oo ku yaal websaydka rasmiga ah,You fill out an online application form on the official website,easy,yes,manual,9/8/2026
+2,admissions,Shuruudaha la iska rabo maxeey yihiin?,What are the admission requirements?,Waxaad u baahan tahay shahaadada dugsiga sare iyo dukumiintiyada aqoonsi,You need a high school certificate and identification documents,easy,yes,manual,9/8/2026
+3,admissions,Goormee furmaysaa is-diwaan-gelintu?,When does the application open?,Dalabka wuxuu furmaa bilaha hore ee sanadka,Applications open at the beginning of the year,medium,yes,manual,9/8/2026
+4,admissions,Ma la galaa imtixaanka qaabilaada?,Is there an entrance exam?,Haa waxaa jira imtixaan yar oo lagu eego aqoonta,Yes there is a short assessment to evaluate knowledge,medium,yes,manual,9/8/2026
+5,admissions,Yaa arki kara barnaamijyada SIMAD?,Who can apply to SIMAD programs?,Dhammaan dhalinyarada Soomaaliyeed ee doonaya barasho AI,All Somali youth who want to study AI,easy,yes,manual,9/8/2026
+6,admissions,Xafiiska aqbalista xagee ku yaal?,Where is the admissions office?,Xafiiska wuxuu ku yaal Muqdisho goobta jaamacadda,The office is located at the university campus in Mogadishu,easy,yes,manual,9/8/2026
+7,admissions,Ma online ayaa loo dalbadaa oo keliya?,Is the application only online?,Waxaa la dalbadi karaa online iyo xafiiska si toos ah,You can apply online or visit the office directly,easy,yes,manual,9/8/2026
+8,admissions,Imisaa waqti qaadanayaa aqbalista?,How long does admission take?,Caadi ahaan 2 toddobaad ayay qaadanaysaa,It usually takes 2 weeks,medium,yes,manual,9/8/2026
+9,admissions,Miyaa jirta barnaamij waxbarasho online ah?,Is there an online learning program?,Haa waxaa jira barnaamijyo online ah oo la raaci karo,Yes there are online programs available,easy,yes,manual,9/8/2026
+10,admissions,Sidee loo xaqiijiyaa codsiga?,How do I confirm my application?,Waxaad heshaa email xaqiijin ah markii aad buuxiso foomka,You will receive a confirmation email after submitting the form,easy,yes,manual,9/8/2026
+11,academic,Maxay yihiin barnaamijyada la barto?,What programs are offered?,Waxaa la barto AI Machine Learning Data Science iyo Robotics,Programs include AI Machine Learning Data Science and Robotics,easy,yes,manual,9/8/2026
+12,academic,Imisaa waqti qaadanayaa barnaamijka?,How long is the program?,Barnaamijyadu waxay u dhaxeeyaan 3 bilood ilaa 1 sano,Programs range from 3 months to 1 year,medium,yes,manual,9/8/2026
+13,academic,Luuqadda waxbarashu maxay tahay?,What is the language of instruction?,Waxbarashadu waxay ku wato Af-Soomaali iyo Ingiriis labadaba,Instruction is delivered in both Somali and English,easy,no,manual,9/8/2026
+14,academic,Ma shahaado ayaa la helaa?,Do graduates receive a certificate?,Haa waxaa la siinayaa shahaado rasmiya,Yes graduates receive an official certificate,easy,no,manual,9/8/2026
+15,academic,Maxaa lagu barayaa koorsada AI?,What is taught in the AI course?,Waxaa lagu barayaa xisaabta AI aaladaha iyo mashruucyada wax ku ool ah,The AI course covers mathematics AI tools and practical projects,hard,no,manual,9/8/2026
+16,academic,Ma jiraan macallimiin xirfad leh?,Are there qualified instructors?,Haa macallimiyaasha waxay leeyihiin xirfad caalami ah,Yes instructors have international qualifications,medium,no,manual,9/8/2026
+17,academic,Miyaa jirta mashaariic dhammaadka?,Are there final projects?,Haa ardayda waxay sameeyaan mashaariic dhammaad,Yes students complete final projects,medium,no,manual,9/8/2026
+18,academic,SIMAD wuxuu la xiriiraa jaamacadaha caalamiga ah?,Does SIMAD partner with international universities?,Haa waxaa jira iskaashi caalami ah,Yes there are international partnerships,medium,no,manual,9/8/2026
+19,academic,Miyaa jirta cilmi-baaris?,Is there research at SIMAD?,Haa SIMAD AI Institute waxay fulisaa mashaariic cilmi-baaris,Yes SIMAD AI Institute conducts research projects,hard,no,manual,9/8/2026
+20,academic,Muxuu yahay Ogaal Chatbot?,What is the Ogaal Chatbot?,Ogaal waa chatbot casri ah oo ka jawaaba su'aalaha ku saabsan SIMAD,Ogaal is an AI chatbot that answers questions about SIMAD,medium,no,manual,9/8/2026
+21,fees,Imisaa kharashka barnaamijka?,What is the program fee?,Kharashku wuxuu ku xirnaan doonaa nooca barnaamijka,The fee depends on the type of program,medium,no,manual,9/8/2026
+22,fees,Miyaa jirta deeq waxbarasho?,Is there a scholarship?,Haa waxaa jira deeqo waxbarasho oo loogu talagalay kuwa xirfadda leh,Yes scholarships are available for talented students,medium,no,manual,9/8/2026
+23,fees,Kharashka sidee loo bixiyaa?,How is the fee paid?,Waxaa loo bixiyaa lacag guri ama bangiga,Payment can be made in cash or via bank,easy,no,manual,9/8/2026
+24,fees,Miyaa kharash dib loo celin karaa?,Is the fee refundable?,Kharashka waa la celin karaa haddii la joojiyaa 2 toddobaad gudahood,The fee is refundable if cancelled within 2 weeks,hard,no,manual,9/8/2026
+25,fees,Ma bilaash baa qaar ka mid ah koorsadaha?,Are any courses free?,Haa waxaa jira koorsooyin bilaash ah oo kooban,Yes there are some short free courses,easy,no,manual,9/8/2026
+26,fees,Miyaa qorshe bixinta jira?,Is there a payment plan?,Haa waxaa la samayn karaa qorshe bixinta bishiiba,Yes a monthly payment plan is available,medium,no,manual,9/8/2026
+27,fees,Kharashka registration maxay tahay?,What is the registration fee?,Waxaa jira kharash yar oo isdiiwaangelinta,There is a small registration fee,easy,no,manual,9/8/2026
+28,fees,Miyaa jirta kharash khususi oo maadooyinka?,Are there extra fees for materials?,Maadooyinka inta badan ayay ku jiraan kharashka guud,Most materials are included in the general fee,medium,no,manual,9/8/2026
+29,fees,Deeqda sidee loo dalbadaa?,How do I apply for a scholarship?,Waxaad buuxisaa foom gaar ah oo deeqda loogu talagalay,You fill out a separate scholarship application form,medium,no,manual,9/8/2026
+30,fees,Kharashka caalamiga ah ma ka duwan yahay?,Is the fee different for international students?,Waxaa jiri kara farqi yar oo ardayda dibadda ah,There may be a slight difference for international students,hard,no,manual,9/8/2026
